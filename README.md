@@ -60,7 +60,7 @@ This should be a bullet point list of everything the user must do in order to us
 <!--
 This section should contain instructions on how to contribuite to the project for localization purposes
 -->
-Localization currently limited to English.
+Localization currently limited to English and Russian.
 # Credits
 <!--
 This should contain a list of everyone who has ever helped out with the mod, broken down into categories
@@ -68,3 +68,4 @@ This should contain a list of everyone who has ever helped out with the mod, bro
 Thanks to everyone on the TLD modders' discord.
 ## Special Thanks
 * The Illusion for the Readme template.
+* Pavlenzio for Russian localization.
