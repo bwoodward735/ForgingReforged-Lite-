@@ -70,3 +70,4 @@ Thanks to everyone on the TLD modders' discord.
 * The Illusion for the Readme template.
 * Pavlenzio and (RU) mazytus (Макс) for Russian localization.
 * R.I.P for German localization.
+* snowland for Japanese localization.
